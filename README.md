@@ -1,4 +1,4 @@
-# Gray-to-Color-Image-
+# Gray-to-Color-Image-Translation
 This project implements a Pix2Pix Generative Adversarial Network (GAN) model to convert black and white images to color images. The Pix2Pix GAN is a deep learning architecture used for various image-to-image translation tasks.
 
 ![Screenshot 2023-09-10 152614](https://github.com/rk-universe/Gray-to-Color-Image-/assets/106592573/0ded2ead-3ea9-428c-9bcf-cf7d231b4db9)
