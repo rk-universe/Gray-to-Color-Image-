@@ -6,7 +6,8 @@ This project implements a Pix2Pix Generative Adversarial Network (GAN) model to 
 ![Screenshot 2023-09-10 152906](https://github.com/rk-universe/Gray-to-Color-Image-/assets/106592573/27680306-65b3-42d7-9f3e-8949730445cc)
 
 
-
+## Model weithts
+  you can get the model weigths from https://huggingface.co/rahulkumawat/Gray-to-Color-Image-Translation
 ## Requirements
 
 To run this app, you need to have the following Python libraries installed:
@@ -15,6 +16,7 @@ To run this app, you need to have the following Python libraries installed:
 - TensorFlow (`pip install tensorflow`)
 - NumPy (`pip install numpy`)
 - Matplotlib (`pip install matplotlib`)
+  
 
 ## Usage
 
